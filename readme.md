@@ -1,23 +1,23 @@
-#1、初始化本地Git存储库
-*git init
+# 1、初始化本地Git存储库
+* git init
 
-#2、创建远程存储库的本地副本
-*git clone ssh://git@github.com/[username]/[repository-name].git
+# 2、创建远程存储库的本地副本
+* git clone ssh://git@github.com/[username]/[repository-name].git
 
-#3、检查状态
-*git status
+# 3、检查状态
+* git status
 
-#4、将文件添加到暂存区
-*git add [file-name.txt]
+# 4、将文件添加到暂存区
+* git add [file-name.txt]
 
-#5、将所有新文件和更改过的文件添加到登台区域
-*git add -A
+# 5、将所有新文件和更改过的文件添加到登台区域
+* git add -A
 
-#6、提交更改
-*git commit -m "[commit message]"
+# 6、提交更改
+* git commit -m "[commit message]"
 
-#7、删除文件（或文件夹）
-*git rm -r [file-name.txt]
+# 7、删除文件（或文件夹）
+* git rm -r [file-name.txt]
 
-#8、列出分支（星号表示当前分支）
-*git branch
+# 8、列出分支（星号表示当前分支）
+* git branch
