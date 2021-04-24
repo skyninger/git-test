@@ -42,3 +42,8 @@ git branch
 ```Bash
 git branch [branch name]
 ```
+
+### 10、删除分支
+```Bash
+git branch -d [branch name]
+```
