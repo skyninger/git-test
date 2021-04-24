@@ -37,3 +37,8 @@ git rm -r [file-name.txt]
 ```Bash
 git branch
 ```
+
+### 9、创建一个新分支
+```Bash
+git branch [branch name]
+```
